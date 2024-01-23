@@ -1,0 +1,11 @@
+table,th,td {
+    border: 1px solid black;
+}
+body {
+    background-image: 
+    url(https://img.asmedia.epimg.net/resizer/IyZUvxhhwFP8j-CTVixgAWsVJPY=/1200x1200/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/LWITUEWDGRFXZFZFZBPT3LO6QU.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+table {background-color: antiquewhite;}
